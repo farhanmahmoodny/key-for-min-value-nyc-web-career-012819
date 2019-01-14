@@ -3,5 +3,5 @@
 
 def key_for_min_value(name_hash)
   name_array = name_hash.to_a
-  
+  if name_array[0][1]
 end
